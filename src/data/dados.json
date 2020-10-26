@@ -1,7 +1,7 @@
 {
   "categorias": [
     {
-      "titulo": "Nossos Vídeos",
+      "titulo": "Usabilidade",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
@@ -15,74 +15,75 @@
          
         },
         {
-          "titulo": "Historia do Arduino",
-          "url": "https://youtu.be/9nucMfF15Ik"
+          "titulo": "O que é usabilidade?",
+          "url": "https://youtu.be/R-bzA9oV-4w"
         },
         {
-          "titulo": "Conceitos de Eletrônica para Arduino",
-          "url": "https://youtu.be/1_4Psagxtps"
+          "titulo": "As boas práticas",
+          "url": "https://www.youtube.com/watch?v=SVIRSqpi-F0"
         },
         {
-          "titulo": "Conceitos básicos de Logica de programação",
-          "url": "https://youtu.be/i7CabAnxA5Q"
+          "titulo": "10 dicas básicas para garantir a Usabilidade ? #SitesEAplicativos",
+          "url": "https://www.youtube.com/watch?v=x3LCJNMFluM"
         },
         {
-          "titulo": "Primeira Aula Pratica",
-          "url": "https://youtu.be/KYPX_cxAFN0"
+          "titulo": "Avaliação de Usabilidade",
+          "url": "https://www.youtube.com/watch?v=gZxNc-opji8"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Testes de Usabilidade #Episódio 1",
+          "url": "https://www.youtube.com/watch?v=HFAmiNVFuj4"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Testes de Usabilidade #Episódio 2",
+          "url": "https://www.youtube.com/watch?v=yOIS7dubW8c&list=RDCMUCTkZTDIq25Czsazq2N493Cg&start_radio=1&t=2"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          
+          "titulo": "Testes de Usabilidade #Episódio 3",
+          "url": "https://www.youtube.com/watch?v=WbB5-CLUfrs&list=RDCMUCTkZTDIq25Czsazq2N493Cg&index=2"
         }
       ]
     },
     {
-      "titulo": "Fundamentos de Computação",
+      "titulo": "Avaliação Heurística",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Teste de Usabilidade",
+        "url": "https://youtu.be/K2bxUGg0dmg"
       },
       "videos": [
         {
-          "titulo": "Fundamentos de Computação - Capitulo 1 (1º Parte)",
-          "url": "https://youtu.be/EQ3f7S70gk4"
+          "titulo": "Avaliação Heurística#Atalhos mentais na tomada de decisão!",
+          "url": "https://youtu.be/tM7MX9Z91Ns"
         },
         {
-          "titulo": "Fundamentos de Computação - Capitulo 1 (2º Parte)",
-          "url": "https://youtu.be/r-o-BN9t5tw"
+          "titulo": "Avaliação Heurística#1MinutoDeTecnologia",
+          "url": "https://youtu.be/LZ97VA85ysQ"
         },
         {
-          "titulo": "Fundamentos de Computação Capitulo 2 (1º Parte)",
-          "url": "https://youtu.be/A5d32FgPH3Q"
+          "titulo": "Avaliação Heurística#Nielsen",
+          "url": "https://youtu.be/k-h52D3Mg48"
         },
         {
-          "titulo": "Fundamentos de Computação Capitulo 2 (2º Parte)",
-          "url": "https://youtu.be/fvBPRiugQv4"
+          "titulo": "Avaliação Heurística#SiteOlharDigital",
+          "url": "https://www.youtube.com/watch?v=mbkBAEcokoM"
         },
         {
-          "titulo": "Fundamentos de Computação Capitulo 4",
-          "url": "https://youtu.be/hHYqCmJkJKo"
+          "titulo": "Avaliação Heurística#SiteSubmarino",
+          "url": "https://youtu.be/RA95aoMKKSA"
         },
         {
-          "titulo": "Fundamentos de Computação Capitulo 5 instalação do windows 10 parte 1",
-          "url": "https://youtu.be/5WhkAu77AEo"
+          "titulo": "Avaliação Heurística#SiteCifraClub",
+          "url": "https://youtu.be/c9h6Yu6twt8"
         },
         {
-          "titulo": "Fundamentos de Computação Capitulo 5 instalação do windows 10 parte 2",
-          "url": "https://youtu.be/cCboDBE5ZXc"
+          "titulo": "Como resolver problemas de sites?",
+          "url": "https://youtu.be/zLWRmML8iWg"
         },
         {
-          "titulo": "Fundamentos de Computação Capitulo 5 instalação do windows 10 parte 3",
-          "url": "https://youtu.be/Wss7jGz2Paw"
+          "titulo": "Interação Humano Computador",
+          "url": "https://www.youtube.com/watch?v=yri0hwLTzVc"
         }
       ]
     },
