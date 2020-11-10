@@ -114,24 +114,24 @@
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Saiba mais",
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Rolf Molich fala sobre Usabilidade",
+          "url": "https://youtu.be/HlM3NtOCy3M"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Consistência e uso de Padrões - Em Heuristica",
+          "url": "https://youtu.be/Eebb8nMjb94"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "O que é Interação Humano Computador",
+          "url": "https://youtu.be/R1GmMLTkI8o"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "O que Usabilidade",
+          "url": "https://youtu.be/K3mVfrZWYe8"
         }
       ]
     },
