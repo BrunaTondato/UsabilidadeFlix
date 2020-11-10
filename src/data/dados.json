@@ -88,28 +88,28 @@
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Inspeção de Usabilidade",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Inspeção",
+        "url": "https://youtu.be/lCig8mDMtn4"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Teste de Usabilidade de mouse óptico",
+          "url": "https://youtu.be/v3SY26mWfyg"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Profissional acompanhando teste de usabilidade do usuário de um sistema",
+          "url": "https://youtu.be/lCig8mDMtn4"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Teste Usabilidade Remoto",
+          "url": "https://youtu.be/zjKaHb6erzQ"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Teste de Usabilidade do Protótipo",
+          "url": "https://youtu.be/9wQkLthhHKA"
         }
       ]
     },
