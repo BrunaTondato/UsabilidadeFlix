@@ -11,7 +11,7 @@
     "react-dom": "^16.13.1",
     "react-hook-form": "^6.9.6",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "^2.1.8",
+    "react-scripts": "3.4.3",
     "react-slick": "^0.27.11",
     "slick-carousel": "^1.8.1",
     "styled-components": "^5.2.0"
@@ -38,21 +38,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
-  "main": "server.js",
-  "devDependencies": {
-    "json-server": "^0.16.2"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/BrunaTondato/UsabilidadeFlix.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/BrunaTondato/UsabilidadeFlix/issues"
-  },
-  "homepage": "https://github.com/BrunaTondato/UsabilidadeFlix#readme"
+  }
 }
