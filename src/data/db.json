@@ -6,8 +6,36 @@
       "cor": "#6BD1FF",
       "descricao": "IFSULDEMINAS - Campus Machado",
       "url": "https://info.mch.ifsuldeminas.edu.br/"
+    },
+    {
+      "titulo": "Usabilidade",
+      "descricao": "O que é Usabilidade",
+      "url": "https://youtu.be/XyoXpg9VgRM",
+      "cor": "#cdd920",
+      "id": 2
+    },
+    {
+      "titulo": "Avaliação Heurística",
+      "descricao": "Teste de Usabilidade",
+      "url": "https://youtu.be/K2bxUGg0dmg",
+      "cor": "#d61a05",
+      "id": 3
+    },
+    {
+      "titulo": "Inspeção de Usabilidade",
+      "descricao": "Inspeção",
+      "url": "https://youtu.be/lCig8mDMtn4",
+      "cor": "#05c8d6",
+      "id": 4
+    },
+    {
+      "titulo": "Saiba mais",
+      "descricao": "Vá além",
+      "url": "https://youtu.be/XyoXpg9VgRM",
+      "cor": "#e92ba3",
+      "id": 5
     }
-],
+  ],
   "videos": [
     {
       "id": 1,
@@ -15,6 +43,174 @@
       "titulo": "O que é Usabilidade",
       "description": "O que é Usabilidade",
       "url": "https://youtu.be/XyoXpg9VgRM"
+    },
+    {
+      "titulo": "Usabilidade na Web",
+      "description": "Usabilidade na Web",
+      "url": "https://youtu.be/XyoXpg9VgRM",
+      "categoriaId": 2,
+      "id": 2
+    },
+    {
+      "titulo": "O que é usabilidade?",
+      "description": "O que é usabilidade?",
+      "url": "https://youtu.be/R-bzA9oV-4w",
+      "categoriaId": 2,
+      "id": 3
+    },
+    {
+      "titulo": "As boas práticas",
+      "description": "As boas práticas",
+      "url": "https://www.youtube.com/watch?v=SVIRSqpi-F0",
+      "categoriaId": 2,
+      "id": 4
+    },
+    {
+      "titulo": "10 dicas básicas para garantir a Usabilidade ? #SitesEAplicativos",
+      "description": "10 dicas básicas para garantir a Usabilidade ? #SitesEAplicativos",
+      "url": "https://www.youtube.com/watch?v=x3LCJNMFluM",
+      "categoriaId": 2,
+      "id": 5
+    },
+    {
+      "titulo": "Avaliação de Usabilidade",
+      "description": "Avaliação de Usabilidade",
+      "url": "https://www.youtube.com/watch?v=gZxNc-opji8",
+      "categoriaId": 2,
+      "id": 6
+    },
+    {
+      "titulo": "Testes de Usabilidade ",
+      "description": "#Episódio 1",
+      "url": "https://www.youtube.com/watch?v=HFAmiNVFuj4",
+      "categoriaId": 2,
+      "id": 7
+    },
+    {
+      "titulo": "Testes de Usabilidade ",
+      "description": "#Episódio 2",
+      "url": "https://www.youtube.com/watch?v=yOIS7dubW8c&list=RDCMUCTkZTDIq25Czsazq2N493Cg&start_radio=1&t=2",
+      "categoriaId": 2,
+      "id": 8
+    },
+    {
+      "titulo": "Testes de Usabilidade ",
+      "description": "#Episódio 3",
+      "url": "https://www.youtube.com/watch?v=WbB5-CLUfrs&list=RDCMUCTkZTDIq25Czsazq2N493Cg&index=2",
+      "categoriaId": 2,
+      "id": 9
+    },
+    {
+      "titulo": "Avaliação Heurística",
+      "description": "Avaliação Heurística#Atalhos mentais na tomada de decisão!",
+      "url": "https://youtu.be/tM7MX9Z91Ns",
+      "categoriaId": 3,
+      "id": 10
+    },
+    {
+      "titulo": "Avaliação Heurística #1MinutoDeTecnologia",
+      "description": "Avaliação Heurística \n#1MinutoDeTecnologia",
+      "url": "https://youtu.be/LZ97VA85ysQ",
+      "categoriaId": 3,
+      "id": 11
+    },
+    {
+      "titulo": "Avaliação Heurística #Nielsen",
+      "description": "Avaliação Heurística \n#Nielsen",
+      "url": "https://youtu.be/k-h52D3Mg48",
+      "categoriaId": 3,
+      "id": 12
+    },
+    {
+      "titulo": "Avaliação Heurística #SiteOlharDigital",
+      "description": "Avaliação Heurística \n#SiteOlharDigital",
+      "url": "https://www.youtube.com/watch?v=mbkBAEcokoM",
+      "categoriaId": 3,
+      "id": 13
+    },
+    {
+      "titulo": "Avaliação Heurística #SiteSubmarino",
+      "description": "Avaliação Heurística \n#SiteSubmarino",
+      "url": "https://youtu.be/RA95aoMKKSA",
+      "categoriaId": 3,
+      "id": 14
+    },
+    {
+      "titulo": "Avaliação Heurística #SiteCifraClub",
+      "description": "Avaliação Heurística \n#SiteCifraClub",
+      "url": "https://youtu.be/c9h6Yu6twt8",
+      "categoriaId": 3,
+      "id": 15
+    },
+    {
+      "titulo": "Como resolver problemas de sites?",
+      "description": "Como resolver problemas de sites?",
+      "url": "https://youtu.be/zLWRmML8iWg",
+      "categoriaId": 3,
+      "id": 16
+    },
+    {
+      "titulo": "Interação Humano Computador",
+      "description": "Interação Humano Computador",
+      "url": "https://www.youtube.com/watch?v=yri0hwLTzVc",
+      "categoriaId": 3,
+      "id": 17
+    },
+    {
+      "titulo": "Guia para testes remotos de usuários | Elisa Volpato",
+      "description": "Guia para testes remotos de usuários | Elisa Volpato",
+      "url": "https://youtu.be/jLHjeaCOKns",
+      "categoriaId": 4,
+      "id": 18
+    },
+    {
+      "titulo": "Profissional acompanhando teste de usabilidade do usuário de um sistema",
+      "description": "Profissional acompanhando teste de usabilidade do usuário de um sistema",
+      "url": "https://youtu.be/lCig8mDMtn4",
+      "categoriaId": 4,
+      "id": 19
+    },
+    {
+      "titulo": "Teste Usabilidade Remoto",
+      "description": "Teste Usabilidade Remoto",
+      "url": "https://youtu.be/zjKaHb6erzQ",
+      "categoriaId": 4,
+      "id": 20
+    },
+    {
+      "titulo": "Teste de Usabilidade do Protótipo",
+      "description": "Teste de Usabilidade do Protótipo",
+      "url": "https://youtu.be/9wQkLthhHKA",
+      "categoriaId": 4,
+      "id": 21
+    },
+    {
+      "titulo": "Rolf Molich fala sobre Usabilidade",
+      "description": "Rolf Molich fala sobre Usabilidade",
+      "url": "https://youtu.be/HlM3NtOCy3M",
+      "categoriaId": 5,
+      "id": 22
+    },
+    {
+      "titulo": "Consistência e uso de Padrões - Em Heuristica",
+      "description": "Consistência e uso de Padrões - Em Heuristica",
+      "url": "https://youtu.be/Eebb8nMjb94",
+      "categoriaId": 5,
+      "id": 23
+    },
+    {
+      "titulo": "O que é Interação Humano Computador",
+      "description": "O que é Interação Humano Computador",
+      "url": "https://youtu.be/R1GmMLTkI8o",
+      "categoriaId": 5,
+      "id": 24
+    },
+    {
+      "titulo": "O que Usabilidade",
+      "description": "O que Usabilidade",
+      "url": "https://youtu.be/K3mVfrZWYe8",
+      "categoriaId": 5,
+      "id": 25
     }
-]
+  ]
 }
