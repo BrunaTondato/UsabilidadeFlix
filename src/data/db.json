@@ -1,13 +1,6 @@
 {
   "categorias": [
     {
-      "id": 1,
-      "titulo": "Arduino",
-      "cor": "#6BD1FF",
-      "descricao": "IFSULDEMINAS - Campus Machado",
-      "url": "https://info.mch.ifsuldeminas.edu.br/"
-    },
-    {
       "titulo": "Usabilidade",
       "descricao": "O que é Usabilidade",
       "url": "https://youtu.be/XyoXpg9VgRM",
@@ -34,7 +27,7 @@
       "url": "https://youtu.be/XyoXpg9VgRM",
       "cor": "#e92ba3",
       "id": 5
-    }
+    }    
   ],
   "videos": [
     {
@@ -211,6 +204,13 @@
       "url": "https://youtu.be/K3mVfrZWYe8",
       "categoriaId": 5,
       "id": 25
+    },
+    {
+      "titulo": "Raio UX",
+      "description": "Testes de Usabilidade",
+      "url": "https://youtu.be/gfLuaYI4ldQ",
+      "categoriaId": 5,
+      "id": 26
     }
   ]
 }

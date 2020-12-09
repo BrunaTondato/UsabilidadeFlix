@@ -1,10 +1,12 @@
-import React, {useState, useEffect} from 'react';
+import React, { useEffect, useState } from 'react';
 import Header from "../../components/Header";
 import Footer from "../../components/Footer";
 import ModalDialog from "../../components/Modal";
 import { useForm } from 'react-hook-form';
 import { Link, useHistory } from 'react-router-dom';
 import "./index.css"
+import repository from "../../Repository.js"
+import config from "../../config.js"
 
 function CadastroCategoria() {
 const { register, handleSubmit, errors } = useForm();
@@ -23,7 +25,7 @@ setOpen(false);
 
 function onSubmit(dados) {
     console.log("Dados:", dados);
-    fetch(`http://localhost:8080/categorias`, {
+    fetch(`${config.URL_BACKEND}/categorias`, {
     method: "post",
     headers: {
     "Content-Type": "application/json",

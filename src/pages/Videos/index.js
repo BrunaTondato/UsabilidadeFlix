@@ -5,6 +5,7 @@ import Header from "../../components/Header";
 import Footer from "../../components/Footer";
 import "./index.css"
 import repository from "../../Repository.js"
+import config from "../../config.js"
 import ModalDialog from "../../components/Modal";
 
 function CadastroVideo() {
@@ -30,7 +31,7 @@ function CadastroVideo() {
 
     function onSubmit(dados) {
         console.log("Dados:", dados);
-        fetch(`http://localhost:8080/videos`, {
+        fetch(`${config.URL_BACKEND}/videos`, {
         method: "post",
         headers: {
         "Content-Type": "application/json",
